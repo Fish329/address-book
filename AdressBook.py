@@ -47,7 +47,7 @@ MPlicense=False
 MPgrade=11
 MPmail="267895@burlcoschools.org"
 
-ARname="Aiden Rodriguez
+ARname="Aiden Rodriguez"
 ARage=16.73
 ARlicense=False
 ARgrade=11
@@ -57,7 +57,7 @@ RSname="Ryan Stiles"
 RSage=17.7
 RSlicense=True
 RSgrade=11
-RDmail="267947@burlcoschools.org"
+RSmail="267947@burlcoschools.org"
 
 #Print out every id card... individually
 print("-----------------------ID CARD------------------------")
@@ -87,7 +87,7 @@ print("")
 print("-----------------------ID CARD------------------------")
 print("NAME:",GCname)
 print("AGE:",GCage)
-print("DRIVERS lICENSE?",GClicense)
+print("DRIVERS lICENSE?",GClicence)
 print("GRADE:",GCgrade)
 print("EMAIL:",GCmail)
 print("--------------------------BCIT------------------------")
